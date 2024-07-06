@@ -1,4 +1,3 @@
-#! /bin/sh
+#!/bin/bash
 
-# git clone https://github.com/tmux-plugins/tpm
-
+sudo apt install tmux
