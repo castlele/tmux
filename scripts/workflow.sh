@@ -25,7 +25,6 @@ if [[ "$SELECTED" == "STOP" ]]; then
     hostess rm www.youtube.com
     hostess rm www.reddit.com
     hostess rm www.x.com
-    hostess rm www.linkedin.com
     hostess rm www.privatemail.com
     hostess rm discord.com
     hostess rm status.discord.com
@@ -41,7 +40,6 @@ else
         hostess rm www.youtube.com
         hostess rm www.reddit.com
         hostess rm www.x.com
-        hostess rm www.linkedin.com
         hostess rm www.privatemail.com
         hostess rm discord.com
         hostess rm status.discord.com
@@ -53,7 +51,6 @@ else
         hostess add www.youtube.com 127.0.0.1
         hostess add www.reddit.com 127.0.0.1
         hostess add www.x.com 127.0.0.1
-        hostess add www.linkedin.com 127.0.0.1
         hostess add www.privatemail.com 127.0.0.1
         hostess add discord.com 127.0.0.1
         hostess add status.discord.com 127.0.0.1
